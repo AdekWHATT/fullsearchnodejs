@@ -1,0 +1,93 @@
+[
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\dokan-pro\\modules\\seller-vacation\\includes\\class-dokan-seller-vacation-update-seller-product-status.php",
+    "lineNumbers": [
+      145
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\dokan-pro\\modules\\single-product-multiple-vendor\\includes\\functions.php",
+    "lineNumbers": [
+      93
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\dokan-pro\\modules\\single-product-multiple-vendor\\includes\\Search\\Dashboard.php",
+    "lineNumbers": [
+      86
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\includes\\class-wc-ajax.php",
+    "lineNumbers": [
+      2209
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\includes\\class-wc-product-query.php",
+    "lineNumbers": [
+      5
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\includes\\data-stores\\class-wc-product-data-store-cpt.php",
+    "lineNumbers": [
+      939,
+      1563
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\includes\\export\\class-wc-product-csv-exporter.php",
+    "lineNumbers": [
+      178,
+      196
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\includes\\interfaces\\class-wc-product-data-store-interface.php",
+    "lineNumbers": [
+      28,
+      127
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\includes\\wc-product-functions.php",
+    "lineNumbers": [
+      24,
+      31
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\src\\Admin\\API\\Reports\\DataStore.php",
+    "lineNumbers": [
+      992
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\src\\Admin\\API\\Reports\\Segmenter.php",
+    "lineNumbers": [
+      356,
+      380,
+      409
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\src\\Internal\\ProductAttributesLookup\\DataRegenerator.php",
+    "lineNumbers": [
+      143,
+      208
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\plugins\\woocommerce\\src\\Internal\\ProductDownloads\\ApprovedDirectories\\Synchronize.php",
+    "lineNumbers": [
+      190
+    ]
+  },
+  {
+    "filePath": "C:\\Users\\Славка\\Downloads\\www.2023-03-22_18_42_11\\pole24\\palchikiobligesh.ru\\wp-content\\themes\\woodmart-1\\inc\\integrations\\woocommerce\\modules\\class-adjacent-products.php",
+    "lineNumbers": [
+      185
+    ]
+  }
+]
